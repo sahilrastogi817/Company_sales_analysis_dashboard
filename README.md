@@ -1,1 +1,2 @@
 # Company_sales_analysis_dashboard
+![alt text](Dashbord.png)
